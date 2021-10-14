@@ -169,7 +169,7 @@ let tiktokApi = {
 					link : '#home' ,
 				},
 				user :{
-					avtImg : './src/image/avatar1.jpeg',
+					avtImg : 'https://avatars.githubusercontent.com/u/38239103?s=120&v=4',
 				},
 				keySearch : {
 					"keyList":["gái xinh","hot girl","hạ còn vương nắng","tình yêu",
