@@ -169,7 +169,7 @@ let tiktokApi = {
 					link : '#home' ,
 				},
 				user :{
-					avtImg : 'https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/30651c0a761a6d133394fd7fe80ef490.jpeg?x-expires=1633298400&x-signature=PruF3nrwsfc94eeHrGatboR0AGo%3D',
+					avtImg : './src/image/avatar1.jpeg',
 				},
 				keySearch : {
 					"keyList":["gái xinh","hot girl","hạ còn vương nắng","tình yêu",
